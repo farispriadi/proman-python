@@ -10,14 +10,15 @@
 * Views by Users, by Tasks and Projects
 * Login and Logout, Create your Profile, update Profile picture
 * Interact with other users sending friendly requests, add and remove friends
-* Hosted at: http://gui-projects.herokuapp.com/
+* Hosted at: http://proman.daringgrafika.com
 * Integration with Amazon AWS S3 for static files
 
 ## Built With:
 
-* Python 3.6.4
-* Django Framework 2.0.4
-* CoreUI templates
+* Python 3.7.9
+* Django Framework 3.1.6
+* CoreUI 3.4 templates
+* PosgresSQL 12
 
 ## Contributing
 
